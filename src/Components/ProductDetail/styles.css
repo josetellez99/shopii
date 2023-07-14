@@ -1,0 +1,8 @@
+.product-detail {
+    height: calc(100vh - 84px);
+    overflow-y: auto;
+}
+
+.product-detail::-webkit-scrollbar {
+    display: none;
+  }

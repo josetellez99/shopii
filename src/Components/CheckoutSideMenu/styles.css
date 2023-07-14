@@ -1,0 +1,8 @@
+.checkout-side-menu {
+    height: calc(100vh - 84px);
+    overflow-y: auto;
+}
+
+.checkout-side-menu::-webkit-scrollbar {
+    /* display: none; */
+  }
